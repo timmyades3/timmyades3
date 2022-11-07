@@ -9,7 +9,7 @@ timmyades3/timmyades3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# - 👋 Hi, I’m Abdulrahman <timmy>
+# - 👋 Hi, I’m Abdulrahman < timmy >
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimileyin-a-68042623a/) 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimileyinadesina623@gmail.com)
 - 👩‍💻 I'm currently working on nothing 😅
