@@ -39,5 +39,5 @@ You can click the Preview link to take a look at your changes.
 [![timmyades3 GitHub stats](https://github-readme-stats.vercel.app/api?username=timmyades3&count_private=true&show_icons=true&theme=radical)](https://github.com/timmyades3/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyades3&layout=compact&theme=radical)](https://github.com/timmyades3/github-readme-stats)
-
+<a href="https://github.com/timmyades3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=timmyades3&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
