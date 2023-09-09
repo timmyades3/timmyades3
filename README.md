@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimileyin-a-68042623a/) 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimileyinadesina623@gmail.com)
 - 👩‍💻 I'm currently working on nothing 😅
-- 🌱 I’m currently learning django and javascript
+- 🌱 I’m currently learning django restframework and javascript
 - 👯‍♀️ I’m looking to collaborate on projects with django
 - 😄 pronouns: He/Him
 - 💬 Ask me about anything
