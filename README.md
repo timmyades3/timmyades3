@@ -39,7 +39,7 @@ A backend engineer. I develop highly sacalable, cost-efficient backend solutions
 
 ![](https://komarev.com/ghpvc/?username=timmyades3)
 ## Statistics
-
+[![timmyades3 GitHub stats](https://github-readme-stats.vercel.app/api?username=timmyades3&count_private=true&show_icons=true&theme=radical)](https://github.com/timmyades3/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmyades3&layout=compact&theme=radical)](https://github.com/timmyades3/github-readme-stats)
 
 
