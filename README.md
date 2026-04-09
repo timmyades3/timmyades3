@@ -1,24 +1,13 @@
-<!---- 👋 Hi, I’m @timmyades3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-timmyades3/timmyades3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## 👋 Hi, I’m Abdulrahman < timmy >
 A backend engineer. I develop highly sacalable, cost-efficient backend solutions with django, AWS, POSTGRESQL and more...
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimileyin-a-68042623a/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abdulrahman-a-68042623a) 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimileyinadesina623@gmail.com)
 - 🌱 I’m currently learning django restframework and javascript
 - 👯‍♀️ I’m looking to collaborate on projects with django
 - 😄 pronouns: He/Him
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love games 🕹 and anime
+- ⚡ Fun fact: I love anime
 ## Languages, Frameworks & Libraries
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
