@@ -3,7 +3,7 @@ A backend engineer. I develop highly sacalable, cost-efficient backend solutions
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abdulrahman-a-68042623a) 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimileyinadesina623@gmail.com)
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Nextjs
 - 👯‍♀️ I’m looking to collaborate on projects with django and react
 - 😄 pronouns: He/Him
 - 💬 Ask me about anything
